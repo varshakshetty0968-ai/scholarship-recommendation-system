@@ -1,7 +1,0 @@
-id,name,email,password,gender,category,income,course
-1,Ravi Kumar,ravi@gmail.com,1234,Male,SC,150000,Engineering
-2,Sita Devi,sita@gmail.com,1234,Female,General,400000,BSc
-3,Aman Khan,aman@gmail.com,1234,Male,OBC,250000,BCom
-4,Priya Sharma,priya@gmail.com,1234,Female,General,300000,Engineering
-5,John Paul,john@gmail.com,1234,Male,Minority,200000,BA
-
